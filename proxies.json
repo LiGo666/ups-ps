@@ -4,7 +4,7 @@
         "loaderio-verifier": {
             "matchCondition": {
                 "methods": [ "GET" ],
-                "route": "/loaderio-662f4ad824d40d701d2134eee123743e"
+                "route": "/loaderio-662f4ad824d40d701d2134eee123743e/"
             },
             "responseOverrides": {
                 "response.body": "loaderio-662f4ad824d40d701d2134eee123743e",
