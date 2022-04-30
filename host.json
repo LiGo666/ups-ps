@@ -14,10 +14,5 @@
   },
   "managedDependency": {
     "enabled": true
-  },
-  "extensions": {
-    "http": {
-      "routePrefix": ""
-    }
   }
 }
